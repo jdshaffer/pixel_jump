@@ -1,5 +1,5 @@
 # Pixel Jump
-A simple side-scrolling game for the HW-364a and HW-364b (ESP8266 development boards)
+A simple side-scrolling game for the HW-364a and HW-364b (ESP8266) development boards.
 
 How to Play:
 * Press the FLASH button to start the game.
@@ -8,15 +8,16 @@ How to Play:
 * That's it!
 
 <center>
-<table style="width: 80%;">
+<BR>
+<table style="width: 90%;">
   <tr>
-    <td width="50%">
+    <td width="33%">
       <img src="images/start_screen.jpg" width="100%">
     </td>
-    <td width="50%">
+    <td width="34%">
       <img src="images/play_screen.jpg" width="100%">
     </td>
-    <td width="50%">
+    <td width="33%">
       <img src="images/gameover_screen.jpg" width="100%">
     </td>
   </tr>
